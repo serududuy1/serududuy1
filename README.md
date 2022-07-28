@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @serududuy
+- 👀 I’m interested in fullstack
+- 🌱 I’m currently learning JS
