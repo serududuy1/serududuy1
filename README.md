@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm serududuy</h1>
-<h3 align="center">A passionate frontend developer from jakarta, Indonesia</h3>
+<h3 align="center">A passionate backend developer from jakarta, Indonesia</h3>
 
 - 🌱 I’m currently learning **nodeJs, reactJs, laravel, mysql, PHP, javascript, java,**
 
